@@ -1,5 +1,7 @@
 <html>
 <body>
     <h2>Hello</h2>
+    <p>Paragraph</p>
+    <s>Hello world</s>
 </body>
 </html>
